@@ -15,8 +15,8 @@ topnav_dropdowns:
     - title: Autres
       folderitems:
         - title: Neuma
-          url: https://neuma.huma-num.fr
+          external_url: https://neuma.huma-num.fr
         - title: Guide documentation
-          url: https://idratherbewriting.com/documentation-theme-jekyll/
+          external_url: https://idratherbewriting.com/documentation-theme-jekyll/
 
 # Copyright 2021 Google LLC
