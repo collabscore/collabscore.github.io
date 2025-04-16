@@ -2,7 +2,7 @@
 title: "Accueil"
 keywords: Page accueil
 permalink: index.html
-summary: 
+summary: Documentation des outils et méthodes du projet CollabScore
 ---
 
 # Documentation du système collaboratif CollabScore
