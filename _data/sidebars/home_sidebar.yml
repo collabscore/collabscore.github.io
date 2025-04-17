@@ -26,7 +26,7 @@ entries:
       url: /omr.html
       output: web
       type: homepage
-    - title: Les interfaces collaboratives
+    - title: Callico, notre plate-forme collaborative
       url: /callico.html
       output: web
       type: homepage

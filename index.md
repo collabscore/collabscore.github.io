@@ -83,11 +83,11 @@ résultat de la reconnaissance OMR.
 **Pour en savoir plus sur DMOS, vous pouvez 
 [consulter la page dédiée]({% link pages/omr.md %})**.
 
-## La phase collaborative.
+## Callico, un système de correction collaborative
 
 Quand l'OMR a produit une partition éditable par reconnaissance
 optique d'une image, il reste à valider cette reconnaissance
-et à la corriger éventuellement. CollanScore propose des
+et à la corriger éventuellement. CollabScore propose des
 interfaces pour que les utilisateurs puissent accéder aux documents
 analysés,  comparer l'image initiale et la partition éditable, et 
 indiquer les corrections à effectuer. L'image ci-dessous montre
@@ -98,8 +98,11 @@ gauche) et de son interprétation (à droite).
 file="collab-phase2.png" alt="Interfaces collaboratives"  caption="Une des interfaces collaboratives" %} 
 
 L'essentiel de la présente documentation est consacré à ces
-interfaces collaboratives.
-
+interfaces collaboratives. Elles constituent un système collaboratif
+que nous avons construit sur la base de [Callico]{https://teklia.com/our-solutions/callico/}, une plate-forme
+logicielle distribuée par la société Teklia. Nous avons
+avons largement adapté Callico aux spécificités de la 
+musique notée. 
 
 ## Comment lire ce guide
 
@@ -108,5 +111,15 @@ qui créent et
 gèrent des campagnes d'annotation qu'aux annotateurs 
 qui accèdent à  des documents pour les annoter. 
 
- - les administrateurs [peuvent accéder à cette section du site]({% link pages/admin.md %})**.
+ - les administrateurs [peuvent accéder à cette section du site]({% link pages/admin.md %})**;
  
+ - les annotateurs [peuvent accéder à cette section du site]({% link pages/annotateur.md %})**.
+
+Il est recommandé de prendre connaissance de la documentation avant
+de se lancer dans des corrections et validation. La compréhension
+des principes généraux, et l'organisation de chaque interface en 
+particulier, ne peuvent que faciliter la prise en main de nos outils.
+Nous avons cherché à les rendre aussi  simples que possible,  mais
+ils s'appuient sur des notions et des connaissances loin 
+d'être triviales, à commencer par la notation musicale elle-même.
+Bonne lecture !
