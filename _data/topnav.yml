@@ -12,7 +12,7 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Autres
+    - title: Liens
       folderitems:
         - title: Neuma
           external_url: https://neuma.huma-num.fr
