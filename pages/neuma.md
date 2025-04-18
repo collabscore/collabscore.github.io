@@ -7,9 +7,6 @@ permalink: neuma.html
 
 # Neuma
 
-{% include inline_image.html
-file="neuma.png" alt="Neuma" max-width="200" %} 
-
 
 ## Data organization: The hierarchy of corpuses and opuses
 
@@ -95,12 +92,8 @@ categories of musical works. They are shown on the welcome
 page of Neuma.
 
 
-.. _initialCorpus:
-.. figure:: ./figures/initialCorpus.png       
-        :width: 90%
-        :align: center
-   
-        The root (initial) corpus
+{% include image.html
+file="initialCorpus.png" alt="Page d'accueil Neuma"  %} 
 
 By clicking on a corpus's icon, one obtain a page that 
 details the corpus content. 
