@@ -111,9 +111,9 @@ qui créent et
 gèrent des campagnes d'annotation qu'aux annotateurs 
 qui accèdent à  des documents pour les annoter. 
 
- - les administrateurs [peuvent accéder à cette section du site]({% link pages/admin.md %})**;
+ - les administrateurs [peuvent accéder à cette section du site]({% link pages/admin.md %});
  
- - les annotateurs [peuvent accéder à cette section du site]({% link pages/annotateur.md %})**.
+ - les annotateurs [peuvent accéder à cette section du site]({% link pages/annotateur.md %}).
 
 Il est recommandé de prendre connaissance de la documentation avant
 de se lancer dans des corrections et validation. La compréhension
