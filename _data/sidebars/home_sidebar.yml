@@ -39,6 +39,14 @@ entries:
       url: /admin.html
       output: web
       type: homepage
+  - title: Annotateurs
+    output: web
+    folderitems:
+
+    - title: Présentation générale
+      url: /annotateur.html
+      output: web
+      type: homepage
     - title: Phase 1, instrumentation
       url: /phase1.html
       output: web
@@ -49,14 +57,6 @@ entries:
       type: homepage
     - title: Phase 3, objets musicaux
       url: /phase3.html
-      output: web
-      type: homepage
-  - title: Annotateurs
-    output: web
-    folderitems:
-
-    - title: Présentation générale
-      url: /annotateur.html
       output: web
       type: homepage
 

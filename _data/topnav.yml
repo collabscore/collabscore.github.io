@@ -16,7 +16,7 @@ topnav_dropdowns:
       folderitems:
         - title: Neuma
           external_url: https://neuma.huma-num.fr
-        - title: Guide documentation
+        - title:  Documentation Github
           external_url: https://idratherbewriting.com/documentation-theme-jekyll/
-
-# Copyright 2021 Google LLC
+        - title: Documentation Callico
+          external_url: https://doc.callico.eu/

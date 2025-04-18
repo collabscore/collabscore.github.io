@@ -22,17 +22,7 @@ et ce qui suit ne concerne donc que ce qui est spécifique
  - enfin (et surtout), nous avons développé dans CollabScore des
    interfaces d'annotation spécifiques aux partitions musicales.
 
-Il existe essentiellement trois interfaces, correspondant
-à trois types de campagne qui sont conçues pour se succéder
-dans un ordre strict. Chaque campagne s'effectue à une 
-certaine granularité (tout le document, ou seulement une
-page, etc.), et concerne une partie des éléments
-de la notation musicale. 
-Ces interfaces ont en commun de présenter l'interprétation
-de l'OMR et de permettre aux utilisateur de demander
-certaines corrections.
-
-## Les opérations d'édition
+## Annotations et opérations d'édition
 
 Les annotations produites par les interfaces CollabScore
 contiennent des *opérations
@@ -53,34 +43,3 @@ une dépendance entre les campagnes, qui explique
 l'ordre dans lequel elles doivent se succéder. Il faut par exemple
 avoir corrigé une clé ou une armure pour pouvoir correctement
 vérifier les altérations des notes.
-
-## Les campagnes
-
-CollabScore est conçu pour se dérouler selon trois campagnes
-successives.
-
-La première est intitulée **"Instrumentation"**. Elle permet 
-de vérifier que les parties instrumentales ont bien été identifiées,
-et de s'assurer que chaque portée est bien affectée à la
-bonne partie. Il s'agit d'une condition préalable à la
-bonne interprétation du contenu musical. 
-**[Cette campagne est décrite en détails ici]({% link pages/phase1.md %})**.
- 
-La seconde campagne porte sur le **contexte de lecture**. le but
-est de vérifier la bonne reconnaissance des clés, armures et métriques.
-Toute erreur sur l'un de ces éléments a en effet un impact
-sur l'interprétation des symboles musicaux (notes, silences, etc.).
- **[Cette campagne est décrite en détails ici]({% link pages/phase2.md %})**.
- 
-Enfin, en supposant les parties bien identifiées et localisées sur les portées (phase 1), et 
-les éléments d'interprétation corrects (phase 2), 
-la campagne de phase 3, intitulée **Objets musicaux**
-propose  à l'utilisateur de corriger 
-les éléments locaux.
-
-  - Durée, hauteur, altération des notes
-  - Durée des silences
-  - Eventuellement ajout ou suppression d'éléments
-
-**[Cette campagne est décrite en détails ici]({% link pages/phase3.md %})**.
- 
