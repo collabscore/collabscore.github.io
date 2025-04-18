@@ -47,7 +47,7 @@ de vérifier que les parties instrumentales ont bien été identifiées,
 et de s'assurer que chaque portée est bien affectée à la
 bonne partie. Il s'agit d'une condition préalable à la
 bonne interprétation du contenu musical. 
-**[Cette campagne est décrite en détails ici]({% link pages/phase1.md %})**.
+**[Cette campagne est décrite en détail ici]({% link pages/phase1.md %})**.
  
  
 ## La campagne des contextes de lecture
@@ -56,7 +56,7 @@ La seconde campagne porte sur le **contexte de lecture**. le but
 est de vérifier la bonne reconnaissance des clés, armures et métriques.
 Toute erreur sur l'un de ces éléments a en effet un impact
 sur l'interprétation des symboles musicaux (notes, silences, etc.).
- **[Cette campagne est décrite en détails ici]({% link pages/phase2.md %})**.
+ **[Cette campagne est décrite en détail ici]({% link pages/phase2.md %})**.
  
 
 ## La campagne des objets musicaux
@@ -71,5 +71,5 @@ les éléments locaux.
   - Durée des silences
   - Eventuellement ajout ou suppression d'éléments
 
-**[Cette campagne est décrite en détails ici]({% link pages/phase3.md %})**.
+**[Cette campagne est décrite en détail ici]({% link pages/phase3.md %})**.
  
