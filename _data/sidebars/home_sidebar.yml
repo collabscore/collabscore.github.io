@@ -39,6 +39,27 @@ entries:
       url: /admin.html
       output: web
       type: homepage
+    - title: Annotations
+      url: /annotations.html
+      output: web
+      type: homepage
+    - title: Authentification et Autorisation
+      url: 
+      output: web
+      type: homepage
+    - title: Notifications
+      url: 
+      output: web
+      type: homepage
+    - title: Projets
+      url: 
+      output: web
+      type: homepage
+    - title: Users
+      url: 
+      output: web
+      type: homepage
+      
   - title: Annotateurs
     output: web
     folderitems:
