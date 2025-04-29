@@ -43,20 +43,12 @@ entries:
       url: /annotations.html
       output: web
       type: homepage
-    - title: Authentification et Autorisation
-      url: 
-      output: web
-      type: homepage
-    - title: Notifications
-      url: 
-      output: web
-      type: homepage
     - title: Projets
-      url: 
+      url: /projects.html
       output: web
       type: homepage
     - title: Users
-      url: users.html
+      url: /users.html
       output: web
       type: homepage
       
