@@ -7,6 +7,27 @@ permalink: phase2.html
 
 # La campagne "Contexte de lecture"
 
+## L'interface
+
+Les clefs, armures et métriques constituent le *contexte 
+de lecture et d'interprétation* des objets musicaux 
+(notes, silences et accords). Il sont initialisés 
+sur la première mesure, et peuvent changer en 
+cours de partition. L'interface surligne tous ces changements, 
+en jaune si l'OMR estime  que la reconnaissance est correcte, 
+en rouge sinon. 
+
+L'utilisateur peut vérifier la
+reconnaissance grâce à l'interface ci-dessous qui met en vis-à-vis
+l'image et sa reconnaissance.
+
+
+{% include image.html
+file="collab-phase2.png" alt="Interface de la phase 2"  %} 
+
+
+## Vérifications et actions
+
 On demande à l'utilisateur de vérifier tous les éléments qui conditionnent l'interprétation  des notes. 
 
 Ces éléments sont

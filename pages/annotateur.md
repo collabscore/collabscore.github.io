@@ -8,7 +8,7 @@ permalink: annotateur.html
 # Présentation générale des tâches d'annotation
 
 
-Chaque annotateur se voit attribuer des *tâches*  
+Chaque annotateur se voit attribuer des *tâches* 
 à effectuer via des interfaces qui ont
 en commun de présenter l'interprétation
 de l'OMR et de permettre aux utilisateur d'effectuer
